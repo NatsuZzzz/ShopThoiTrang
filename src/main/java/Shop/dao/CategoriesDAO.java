@@ -1,16 +1,13 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
  */
-
 package Shop.dao;
 
 /**
  *
  * @author ADMIN
  */
-public class DuAnDauTay {
-
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-    }
+public interface CategoriesDAO {
+    
 }
